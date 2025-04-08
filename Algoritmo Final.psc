@@ -7,7 +7,7 @@ Algoritmo MayorDeTresNumeros;
     Escribir "Ingrese el tercer número: ";
     Leer num3;
     Si (num1 >= num2) y (num1 >= num3) Entonces
-        Escribir "El número mayor es: ", num1;
+        Escribir "El número jodidamente mayor es: ", num1;
     Sino
         Si (num2 >= num1) y (num2 >= num3) Entonces
             Escribir "El número mayor es: ", num2;
